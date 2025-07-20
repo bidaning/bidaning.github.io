@@ -1,5 +1,5 @@
 ---
-title: "Decentralized Personalized Federated Learning Based on a Conditional "Sparse-to-Sparser" Scheme"
+title: "Decentralized Personalized Federated Learning Based on a Conditional “Sparse-to-Sparser” Scheme"
 collection: publications
 permalink: /publication/LWAB
 excerpt: ' '
