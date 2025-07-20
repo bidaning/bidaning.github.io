@@ -9,3 +9,4 @@ paperurl: 'https://ieeexplore.ieee.org/document/11060892'
 citation: 'Long, Q., Wang, Q., Anagnostopoulos, C., & Bi, D. (2025). Decentralized Personalized Federated Learning Based on a Conditional "Sparse-to-Sparser" Scheme. IEEE Transactions on Neural Networks and Learning Systems.'
 ---
 [Download paper here](https://ieeexplore.ieee.org/document/11060892)
+
